@@ -1,16 +1,5 @@
-# ML Health Risk Prediction
+# ML_Health_Risk_Prediction
 
-End-to-end Machine Learning project using:
-- TensorFlow
-- PyTorch
-- Scikit-Learn
+See the [main project README](../README.md) for the project scope, installation, usage and limitations.
 
-## Pipeline
-- Data loading
-- Preprocessing
-- Model training
-- Evaluation
-- Inference
-
-## Goal
-Demonstrate production-ready ML workflow.
+This directory contains the application. Run the documented Python commands from this folder.
